@@ -38,17 +38,17 @@ Passionate about building practical projects, learning new technologies, and sol
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=meghna135-stu&show_icons=true" height="150"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://github.com/YOURUSERNAME">
+  <a href="https://github.com/meghna135-stu">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-   <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+   <a href="www.linkedin.com/in/meghnamnambiar">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
